@@ -1,3 +1,10 @@
+*,body{
+    margin: 0px;
+    padding: 0px;
+    /* box-sizing: border-box; */
+
+}
+
 body{
     height: 100vh;
         background-color: rgb(132, 182, 239);
@@ -6,7 +13,6 @@ body{
         align-items: center;
         background-image:radial-gradient( rgb(150, 193, 242), rgb(0, 17, 255));
 
-    
 }
 #container{
         /* border: 1px solid black; */
