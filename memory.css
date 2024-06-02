@@ -2,7 +2,6 @@
     margin: 0px;
     padding: 0px;
     /* box-sizing: border-box; */
-
 }
 
 body{
@@ -12,16 +11,16 @@ body{
         justify-content: center;
         align-items: center;
         background-image:radial-gradient( rgb(150, 193, 242), rgb(0, 17, 255));
-
 }
+
 #container{
         /* border: 1px solid black; */
         align-items: center;
         justify-content: center;
         display: flex;
         flex-direction: column;
-    
-    }
+}
+
 .gamebox{
         height: 500px;
         width: 500px;
@@ -30,22 +29,21 @@ body{
         flex-wrap: wrap;
         padding: 10px;
         /* background-color: rgb(132, 182, 239); */
-       
-       
-    }
-    .card{
+}
+.card{
 
-    height: 100px;
-    width: 100px;
-    background-color: rgb(233, 220, 146);
-    border-radius: 40%;
-    border-width: 3px;
-    border-style: solid;
-    border-color: blueviolet;
-    box-shadow: 2px 2px;
-    margin: 10px;
-    cursor: pointer;
-    }  
+height: 100px;
+width: 100px;
+background-color: rgb(233, 220, 146);
+border-radius: 40%;
+border-width: 3px;
+border-style: solid;
+border-color: blueviolet;
+box-shadow: 2px 2px;
+margin: 10px;
+cursor: pointer;
+}  
+
 .card img{
         height: 100px;
         width: 100px;
@@ -53,7 +51,7 @@ body{
         cursor: pointer;
 
 }
-    
+
 .button{
         margin-top: 15px;
         margin-bottom: 15px;
@@ -66,7 +64,7 @@ body{
         text-transform: uppercase;
         color: bisque;
         cursor: pointer;
-    }
+}
     
 .title{
         font-size: 48px;
@@ -75,11 +73,5 @@ body{
         /* border: solid rgb(188, 106, 106); */
         margin: 3px;
         text-shadow: solid salmon 2px;
-       
-       
-
-    
-        
-    
-    } 
+} 
     
