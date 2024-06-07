@@ -78,8 +78,8 @@ cursor: pointer;
 @media only screen and (max-width: 500px){
 
 .gamebox{
-        height: 240px;
-        width: 240px;
+        height: 260px;
+        width: 260px;
         display: flex;
         flex-wrap: wrap;
         padding: 10px;}
