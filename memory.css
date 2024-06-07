@@ -85,8 +85,8 @@ cursor: pointer;
         padding: 10px;}
     
 .card{
-    height: 45px;
-    width: 45px;
+    height: 50px;
+    width: 50px;
     background-color: rgb(233, 220, 146);
     border-radius: 40%;
     border-width: 3px;
@@ -98,8 +98,8 @@ cursor: pointer;
      }    
 
 .card img{
-        height: 45px;
-        width: 45px;
+        height: 50px;
+        width: 50px;
         border-radius: 40%;
         cursor: pointer;
     }
